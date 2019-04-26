@@ -1,0 +1,11 @@
+.dashMainDiv{
+    position: relative;
+    padding: 2px 0px 5px 0px;
+    width: 100%;
+    
+}
+
+.content{
+    position: relative;
+    background-color: white;
+}

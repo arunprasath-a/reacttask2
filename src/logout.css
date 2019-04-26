@@ -1,0 +1,76 @@
+.headerRow{
+    background-color: white;
+    
+   }
+
+.headContainer{
+   width: 100%;
+}
+
+.headerMiddle>p{
+    font-size: 30px;
+}
+
+.headerMiddleDiv{
+    position: relative;
+    padding: 2px;
+    display: flex;
+}
+
+
+.headerLogo{
+    position: relative;
+    padding: 2px;
+    
+}
+
+.headerIMG{
+    position: relative;
+    padding-top: 10px;
+    width: 50px;
+}
+
+.headerUserName{
+    position: relative;
+    padding: 2px;
+    color:black;
+    font-weight: bolder;
+}
+
+.headerMidContent{
+    position: relative;
+    padding: 2px;
+    font-size: 26px;
+}
+
+.headerMidContent>p{
+    padding-left: 50px;
+}
+
+.headerRight a{
+    border: solid thin grey;
+    border-radius: 5px;
+
+}
+
+.headerRight{
+    position: relative;
+    padding: 2px;
+    display: flex;
+    padding-top: 21px;
+}
+
+.headerIcons{
+    position: relative;
+    display: flex;
+}
+
+.headerIcons>.icons{
+    position:relative;
+    padding-left: 30px;
+    
+}
+
+.headerLeft{
+    padding-top: 20px;
+}
